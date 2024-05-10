@@ -1,0 +1,12 @@
+.background-container {
+    background-image: url('../nubank-background.png');
+    background-repeat: no-repeat;
+    height: 695px;
+    width: 50%;
+}
+
+.background-container img {
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
